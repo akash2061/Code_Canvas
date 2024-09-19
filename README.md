@@ -1,2 +1,93 @@
-# Code_Canvas
-Journey through my creative cosmos of code and learning.
+# Code_Canvas 🌌
+
+Welcome to **Code_Canvas**, your gateway to my creative cosmos of code and learning! This repository is a central hub for all my coding projects, educational journeys, and certifications. Explore the diverse experiences that shape my development path.
+#### *NOTE:* This repository contains direct links to their respective repositories, making it easy to navigate through my various projects and learning resources.
+
+## 🌟 What You’ll Find Here
+
+- **Projects**: A collection of my coding endeavors, showcasing skills and creativity.
+- **Learning Paths**: Curated resources and materials that chart my educational journey.
+- **Certifications**: A record of achievements and milestones in my development career.
+
+## 🌲 Collection:
+
+### 🛠️ Projects:
+- **Rust**:
+  - [ToDo-CLI](https://github.com/akash2061/RUST-CLI-ToDo-List)
+  - [RustSocket--Netcat-Clone](https://github.com/akash2061/RustSocket-NetCat-Clone)
+  - [Hash-Checker](https://github.com/akash2061/RUST-Hash-Checker)
+  - [CLI-Game](https://github.com/akash2061/RUST-CLI-Game)
+  - [CodeCrafters-Shell](https://github.com/akash2061/codecrafters-shell-rust)
+  - [Retro-Clock--GUI](https://github.com/akash2061/Rust-Retro-Clock--GUI)
+  - [Pomodoro-Timer-GUI](https://github.com/akash2061/Pomodoro-Timer)
+
+- **C++**:
+  - [CodeCrafters-http-Server](https://github.com/akash2061/codecrafters-http-server-cpp)
+  - [Luckey_number_game](https://github.com/akash2061/Luckey_number_game_Cpp)
+
+- **MERN-Stack**:
+  - [NoteBook-app](https://github.com/akash2061/NoteBook-app)
+  - [Academic-Project](https://github.com/akash2061/MERN_STACK_PROJECT)
+
+- **Java**:
+  - [Flappy-Bird](https://github.com/akash2061/Flappy-Bird-Java-Project)
+  - [Snake-game](https://github.com/akash2061/Snake_game--Java)
+  - [Music-Player](https://github.com/akash2061/Music_Player-Java-Project)
+
+- **JavaScript**:
+  - [Tic-Tac-Toe-game](https://github.com/akash2061/Tic-Tac-Toe-Game)
+
+### 📚 Learning:
+- **CS50x**:
+  - [Harvard CS50x](https://github.com/akash2061/Cs50x)
+
+- **C**:
+  - [Academic C Advance](https://github.com/akash2061/C-ADVANCE)
+  - [Academic Assignments](https://github.com/akash2061/C-Assignment-1st-Year)
+
+- **C++**:
+  - [C++ 101](https://github.com/akash2061/CPP-101)
+  - [C++ Basics](https://github.com/akash2061/Cpp-Basics)
+
+- **Rust**:
+  - [Rust Journey](https://github.com/akash2061/RUST-First-Code)
+
+- **Bash**:
+  - [Bash Scripts](https://github.com/akash2061/Bash-Craft)
+
+- **MERN-Stack**:
+  - [Academic Learning](https://github.com/akash2061/MERN-STACK-TRAINING)
+
+- **JavaScript**:
+  - [Learning Path](https://github.com/akash2061/JavaScript-Learning-Path)
+
+- **Go**:
+  - [Go Language](https://github.com/akash2061/GO-Lang)
+
+- **Java**:
+  - [Learn Java](https://github.com/akash2061/Learn-JAVA)
+
+- **Python**:
+  - [Python Basics](https://github.com/akash2061/PYTHON)
+
+### 🖼️ Portfolio & Certificates:
+- [My Portfolio](https://github.com/akash2061/Portfolio)
+- [My Certificates](https://github.com/akash2061/My-Certificates)
+
+### 🍴 Forks:
+- [SIH-2024](https://github.com/akash2061/SIH-2024)
+- [Militech Team](https://github.com/akash2061/Militech)
+- [FOSS-Tech/Git-Github-Session](https://github.com/akash2061/Git-Github-Session)
+
+### 🎨 Miscellaneous:
+- [GitHub Profile](https://github.com/akash2061)
+- [Wallpaper Collection](https://github.com/akash2061/Wallpapers)
+- [Git Test](https://github.com/akash2061/Git-Learn-Test-Repository)
+- [HTML Starting](https://github.com/akash2061/HTML)
+
+## 🌐 Connect with Me:
+
+- [GitHub Profile](https://github.com/akash2061)
+- [LinkedIn](https://www.linkedin.com/in/akash-soni-01475924b/)
+
+Thank you for visiting **Code_Canvas**! Feel free to reach out with questions or comments. Happy exploring!
