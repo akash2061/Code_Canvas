@@ -83,6 +83,7 @@ Welcome to **Code_Canvas**, your gateway to my creative cosmos of code and learn
 - [GitHub Profile](https://github.com/akash2061)
 - [Wallpaper Collection](https://github.com/akash2061/Wallpapers)
 - [Git Test](https://github.com/akash2061/Git-Learn-Test-Repository)
+- [Code_Canvas](https://github.com/akash2061/Code_Canvas)
 - [HTML Starting](https://github.com/akash2061/HTML)
 
 ## 🌐 Connect with Me:
