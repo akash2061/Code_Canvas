@@ -26,7 +26,7 @@ Welcome to **Code_Canvas**, your gateway to my creative cosmos of code and learn
   - [Luckey_number_game](https://github.com/akash2061/Luckey_number_game_Cpp)
 
 - **MERN-Stack**:
-  - [NoteBook-app](https://github.com/akash2061/NoteBook-app)
+  - [NoteBook-app [ Desktop App ]](https://github.com/akash2061/NoteBook-app)
   - [Academic-Project](https://github.com/akash2061/MERN_STACK_PROJECT)
 
 - **Java**:
