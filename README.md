@@ -19,15 +19,17 @@ Welcome to **Code_Canvas**, your gateway to my creative cosmos of code and learn
   - [CLI-Game](https://github.com/akash2061/RUST-CLI-Game)
   - [CodeCrafters-Shell](https://github.com/akash2061/codecrafters-shell-rust)
   - [Retro-Clock--GUI](https://github.com/akash2061/Rust-Retro-Clock--GUI)
-  - [Pomodoro-Timer-GUI](https://github.com/akash2061/Pomodoro-Timer)
 
-- **C++**:
-  - [CodeCrafters-http-Server](https://github.com/akash2061/codecrafters-http-server-cpp)
-  - [Luckey_number_game](https://github.com/akash2061/Luckey_number_game_Cpp)
+- **Tauri Desktop App**:
+  - [Pomodoro-Timer-App-Rust](https://github.com/akash2061/Pomodoro-Timer-App-Rust)
 
 - **MERN-Stack**:
   - [NoteBook-app [ Desktop App ]](https://github.com/akash2061/NoteBook-app)
   - [Academic-Project](https://github.com/akash2061/MERN_STACK_PROJECT)
+
+- **C++**:
+  - [CodeCrafters-http-Server](https://github.com/akash2061/codecrafters-http-server-cpp)
+  - [Luckey_number_game](https://github.com/akash2061/Luckey_number_game_Cpp)
 
 - **Java**:
   - [Flappy-Bird](https://github.com/akash2061/Flappy-Bird-Java-Project)
