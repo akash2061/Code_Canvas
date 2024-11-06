@@ -14,10 +14,11 @@ Welcome to **Code_Canvas**, your gateway to my creative cosmos of code and learn
 ### 🛠️ Projects:
 - **Rust**:
   - [ToDo-CLI](https://github.com/akash2061/RUST-CLI-ToDo-List)
-  - [RustSocket--Netcat-Clone](https://github.com/akash2061/RustSocket-NetCat-Clone)
   - [Hash-Checker](https://github.com/akash2061/RUST-Hash-Checker)
   - [CLI-Game](https://github.com/akash2061/RUST-CLI-Game)
   - [CodeCrafters-Shell](https://github.com/akash2061/codecrafters-shell-rust)
+  - [CodeCrafters-Interpreter](https://github.com/akash2061/Interpreter-rust)
+  - [RustSocket--Netcat-Clone](https://github.com/akash2061/RustSocket-NetCat-Clone)
   - [Retro-Clock--GUI](https://github.com/akash2061/Rust-Retro-Clock--GUI)
 
 - **Tauri Desktop App**:
