@@ -54,6 +54,7 @@ Welcome to **Code_Canvas**, your gateway to my creative cosmos of code and learn
 
 - **Rust**:
   - [Rust Journey](https://github.com/akash2061/RUST-First-Code)
+  - [Rust-Tauri-Sandbox](https://github.com/akash2061/Rust-Tauri-Sandbox)
 
 - **Bash**:
   - [Bash Scripts](https://github.com/akash2061/Bash-Craft)
