@@ -13,7 +13,7 @@ Welcome to **Code_Canvas**, your gateway to my creative cosmos of code and learn
 
 ### 🛠️ Projects:
 - **Rust**:
-  - [ToDo-CLI](https://github.com/akash2061/RUST-CLI-ToDo-List)
+  - [Rusty-Journal](https://github.com/akash2061/Rusty-Journal)
   - [Hash-Checker](https://github.com/akash2061/RUST-Hash-Checker)
   - [CLI-Game](https://github.com/akash2061/RUST-CLI-Game)
   - [CodeCrafters-Shell](https://github.com/akash2061/codecrafters-shell-rust)
