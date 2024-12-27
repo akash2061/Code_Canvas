@@ -1,4 +1,4 @@
-# Code_Canvas 🌌
+# Code_Canvas 🌌💫
 
 Welcome to **Code_Canvas**, your gateway to my creative cosmos of code and learning! This repository is a central hub for all my coding projects, educational journeys, and certifications. Explore the diverse experiences that shape my development path.
 #### *NOTE:* This repository contains direct links to their respective repositories, making it easy to navigate through my various projects and learning resources.
