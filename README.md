@@ -13,8 +13,8 @@ Welcome to **Code_Canvas**, your gateway to my creative cosmos of code and learn
 
 ### 🛠️ Projects:
 - **Rust**:
-  - [Rusty-Journal](https://github.com/akash2061/Rusty-Journal)
-  - [Hash-Checker](https://github.com/akash2061/RUST-Hash-Checker)
+  - [Rusty-Journal](https://github.com/akash2061/Rusty-Journal) &nbsp; ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/akash2061/Rusty-Journal/total?color=azure&style=plastic)
+  - [Hash-Checker](https://github.com/akash2061/RUST-Hash-Checker) &nbsp; ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/akash2061/RUST-Hash-Checker/total?color=azure&style=plastic)
   - [CLI-Game](https://github.com/akash2061/RUST-CLI-Game)
   - [CodeCrafters-Shell](https://github.com/akash2061/codecrafters-shell-rust)
   - [CodeCrafters-Interpreter](https://github.com/akash2061/Interpreter-rust)
@@ -22,10 +22,10 @@ Welcome to **Code_Canvas**, your gateway to my creative cosmos of code and learn
   - [Retro-Clock--GUI](https://github.com/akash2061/Rust-Retro-Clock--GUI)
 
 - **Tauri Desktop App**:
-  - [Pomodoro-Timer-App-Rust](https://github.com/akash2061/Pomodoro-Timer-App-Rust)
+  - [Pomodoro-Timer-App-Rust](https://github.com/akash2061/Pomodoro-Timer-App-Rust) &nbsp; ![GitHub all releases](https://img.shields.io/github/downloads/akash2061/Pomodoro-Timer-App-Rust/total?color=azure&style=plastic)
 
 - **MERN-Stack**:
-  - [NoteBook-app [ Desktop App ]](https://github.com/akash2061/NoteBook-app)
+  - [NoteBook-app [ Desktop App ]](https://github.com/akash2061/NoteBook-app) &nbsp; ![GitHub all releases](https://img.shields.io/github/downloads/akash2061/NoteBook-app/total?color=azure&style=plastic)
   - [Academic-Project](https://github.com/akash2061/MERN_STACK_PROJECT)
 
 - **C++**:
@@ -78,7 +78,7 @@ Welcome to **Code_Canvas**, your gateway to my creative cosmos of code and learn
   - [Python Basics](https://github.com/akash2061/PYTHON)
 
 ### 🖼️ Portfolio & Certificates:
-- [My Portfolio](https://github.com/akash2061/Portfolio)
+- [My Portfolio](https://github.com/akash2061/Portfolio) &nbsp; [![Netlify Status](https://api.netlify.com/api/v1/badges/82115093-284e-4d40-a2da-0fa0c87af19f/deploy-status)](https://akashsoni.netlify.app/)
 - [My Certificates](https://github.com/akash2061/My-Certificates)
 
 ### 🍴 Forks:
@@ -87,7 +87,7 @@ Welcome to **Code_Canvas**, your gateway to my creative cosmos of code and learn
 - [FOSS-Tech/Git-Github-Session](https://github.com/akash2061/Git-Github-Session)
 
 ### 🎨 Miscellaneous:
-- [GitHub Profile](https://github.com/akash2061)
+- [GitHub Profile](https://github.com/akash2061) &nbsp; ![github profile views](https://komarev.com/ghpvc/?username=akash2061&style=plastic)
 - [Wallpaper Collection](https://github.com/akash2061/Wallpapers)
 - [Git Test](https://github.com/akash2061/Git-Learn-Test-Repository)
 - [Code_Canvas](https://github.com/akash2061/Code_Canvas)
@@ -95,7 +95,7 @@ Welcome to **Code_Canvas**, your gateway to my creative cosmos of code and learn
 
 ## 🌐 Connect with Me:
 
-- [GitHub Profile](https://github.com/akash2061)
+- [GitHub Profile](https://github.com/akash2061) &nbsp; ![github profile views](https://komarev.com/ghpvc/?username=akash2061&style=plastic)
 - [LinkedIn](https://www.linkedin.com/in/akash-soni-01475924b/)
 
 <p align="center">
