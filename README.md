@@ -103,4 +103,3 @@ Welcome to **Code_Canvas**, your gateway to my creative cosmos of code and learn
 </p>
 
 Thank you for visiting **Code_Canvas**! Feel free to reach out with questions or comments. Happy exploring!
-
