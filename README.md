@@ -55,8 +55,8 @@ Welcome to **Code_Canvas**, your gateway to my creative cosmos of code and learn
 - **Docker**:
   - [Docker-Sandbox](https://github.com/akash2061/Docker-Sandbox)
 
-- **CI/CD**:
-  - [CI-CD-Learning](https://github.com/akash2061/CI-CD-Learning) [![Geo-Location API](https://github.com/Tech-Transit/CI-CD-Testing-Learning/actions/workflows/geo-location.yml/badge.svg)](https://github.com/Tech-Transit/CI-CD-Testing-Learning/actions/workflows/geo-location.yml)
+- **DevOps-PipeLines**:
+  - [DevOps-Learning](https://github.com/akash2061/DevOps-Learning) [![Geo-Location API](https://github.com/Tech-Transit/CI-CD-Testing-Learning/actions/workflows/geo-location.yml/badge.svg)](https://github.com/Tech-Transit/CI-CD-Testing-Learning/actions/workflows/geo-location.yml)
 
 - **Rust**:
   - [Rust Journey](https://github.com/akash2061/RUST-First-Code)
