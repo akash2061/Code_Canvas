@@ -40,7 +40,7 @@ Welcome to **Code_Canvas**, your gateway to my creative cosmos of code and learn
 - **JavaScript**:
   - [Tic-Tac-Toe-game](https://github.com/akash2061/Tic-Tac-Toe-Game)
 
-- **Mobile-Application-Development**:
+- **Mobile-Application-Development + FirebaseDB**:
   - [mini-food-app](https://github.com/akash2061/mini-food-app)
 
 ### 📚 Learning:
