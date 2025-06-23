@@ -28,6 +28,9 @@ Welcome to **Code_Canvas**, your gateway to my creative cosmos of code and learn
   - [NoteBook-app [ Desktop App ]](https://github.com/akash2061/NoteBook-app) &nbsp; ![GitHub all releases](https://img.shields.io/github/downloads/akash2061/NoteBook-app/total?color=azure&style=plastic)
   - [Academic-Project](https://github.com/akash2061/MERN_STACK_PROJECT)
 
+- **DevOps Project**:
+  - [Celebal-DevOps-Project](https://github.com/akash2061/Celebal-DevOps-Project) &nbsp; [![celebal-deployment-pipeline](https://github.com/akash2061/Celebal-DevOps-Project/actions/workflows/celebal-deployment-pipeline.yml/badge.svg)](https://github.com/akash2061/Celebal-DevOps-Project/actions/workflows/celebal-deployment-pipeline.yml) [![Docker Image CI](https://github.com/akash2061/Celebal-DevOps-Project/actions/workflows/docker-image-CI.yml/badge.svg)](https://github.com/akash2061/Celebal-DevOps-Project/actions/workflows/docker-image-CI.yml) [![Push Docker-Hub image to ACR](https://github.com/akash2061/Celebal-DevOps-Project/actions/workflows/azure-container-reg-CI.yml/badge.svg)](https://github.com/akash2061/Celebal-DevOps-Project/actions/workflows/azure-container-reg-CI.yml)
+
 - **C++**:
   - [CodeCrafters-http-Server](https://github.com/akash2061/codecrafters-http-server-cpp)
   - [Luckey_number_game](https://github.com/akash2061/Luckey_number_game_Cpp)
