@@ -2,7 +2,7 @@
 
 Welcome to **Code_Canvas**, your gateway to my creative cosmos of code and learning! This repository is a central hub for all my coding projects, educational journeys, and certifications. Explore the diverse experiences that shape my development path.
 #### *NOTE:* This repository contains direct links to their respective repositories, making it easy to navigate through my various projects and learning resources.
-
+ 
 ## 🌟 What You’ll Find Here
 
 - **Projects**: A collection of my coding endeavors, showcasing skills and creativity.
@@ -112,7 +112,7 @@ Welcome to **Code_Canvas**, your gateway to my creative cosmos of code and learn
 - [LinkedIn](https://www.linkedin.com/in/akash-soni-01475924b/)
 
 <p align="center">
-<a  href="https://www.buymeacoffee.com/akash2061"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a Coffee&emoji=☕&slug=akash2061&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+<a href="https://www.buymeacoffee.com/akash2061"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=akash2061&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 </p>
 
 Thank you for visiting **Code_Canvas**! Feel free to reach out with questions or comments. Happy exploring!
