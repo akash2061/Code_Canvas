@@ -31,6 +31,7 @@ Welcome to **Code_Canvas**, your gateway to my creative cosmos of code and learn
 - **DevOps Project**:
   - [Celebal-DevOps-Project](https://github.com/akash2061/Celebal-DevOps-Project) &nbsp; [![celebal-deployment-pipeline](https://github.com/akash2061/Celebal-DevOps-Project/actions/workflows/celebal-deployment-pipeline.yml/badge.svg)](https://github.com/akash2061/Celebal-DevOps-Project/actions/workflows/celebal-deployment-pipeline.yml) [![Docker Image CI](https://github.com/akash2061/Celebal-DevOps-Project/actions/workflows/docker-image-CI.yml/badge.svg)](https://github.com/akash2061/Celebal-DevOps-Project/actions/workflows/docker-image-CI.yml) [![Push Docker-Hub image to ACR](https://github.com/akash2061/Celebal-DevOps-Project/actions/workflows/azure-container-reg-CI.yml/badge.svg)](https://github.com/akash2061/Celebal-DevOps-Project/actions/workflows/azure-container-reg-CI.yml)
   - [K8s-Automation-Project](https://github.com/akash2061/K8s-Project) &nbsp; [![CI/CD Pipeline](https://github.com/akash2061/K8s-Project/actions/workflows/CI_CD_Pipeline.yml/badge.svg)](https://github.com/akash2061/K8s-Project/actions/workflows/CI_CD_Pipeline.yml)
+  - [DevOps-Project (Academic - Archived/NoLongerMaintained)](https://github.com/akash2061/DevOps-Project)
 
 - **C++**:
   - [CodeCrafters-http-Server](https://github.com/akash2061/codecrafters-http-server-cpp)
