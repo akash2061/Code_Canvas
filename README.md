@@ -114,7 +114,7 @@ Welcome to **Code_Canvas**, your gateway to my creative cosmos of code and learn
 - [LinkedIn](https://www.linkedin.com/in/akash-soni-01475924b/)
 
 <p align="center">
-  <a  href="https://www.buymeacoffee.com/akash2061"><img width="200" src="https://github.com/akash2061/akash2061/blob/main/icons/bmc-button.png" /></a>
+    <a href="https://www.buymeacoffee.com/akash2061"><img width="200" src="https://github.com/akash2061/akash2061/blob/main/icons/bmc-button.png" /></a>
 </p>
 
 Thank you for visiting **Code_Canvas**! Feel free to reach out with questions or comments. Happy exploring!
