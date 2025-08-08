@@ -25,6 +25,7 @@ Welcome to **Code_Canvas**, your gateway to my creative cosmos of code and learn
   - [Pomodoro-Timer-App-Rust](https://github.com/akash2061/Pomodoro-Timer-App-Rust) &nbsp; ![GitHub all releases](https://img.shields.io/github/downloads/akash2061/Pomodoro-Timer-App-Rust/total?color=azure&style=plastic)
 
 - **MERN-Stack**:
+  - [Email-Breach-Cheaker]()
   - [NoteBook-app [ Desktop App ]](https://github.com/akash2061/NoteBook-app) &nbsp; ![GitHub all releases](https://img.shields.io/github/downloads/akash2061/NoteBook-app/total?color=azure&style=plastic)
   - [Academic-Project](https://github.com/akash2061/MERN_STACK_PROJECT)
 
