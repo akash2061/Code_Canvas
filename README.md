@@ -51,6 +51,9 @@ Welcome to **Code_Canvas**, your gateway to my creative cosmos of code and learn
   - [mini-food-app](https://github.com/akash2061/mini-food-app)
 
 ### 📚 Learning:
+- **ITT-Training Pragram**:
+  - [Kalpavriksha-Roots](https://github.com/akash2061/Kalpavriksha-Roots)
+
 - **CS50x**:
   - [Harvard CS50x](https://github.com/akash2061/Cs50x)
 
