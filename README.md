@@ -28,6 +28,7 @@ Welcome to **Code_Canvas**, your gateway to my creative cosmos of code and learn
   - [CosmoSecure (Organization)](https://github.com/CosmoSecure)
     - [.github](https://github.com/CosmoSecure/.github)
     - [CosmoSecure (Rust-Tauri Application)](https://github.com/CosmoSecure/CosmoSecure)
+    - [Website](https://github.com/CosmoSecure/Web)
 
 - **MERN-Stack**:
   - [Email-Breach-Checker](https://github.com/akash2061/Email-Breach-Checker)
