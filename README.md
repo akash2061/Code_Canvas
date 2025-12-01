@@ -25,9 +25,9 @@ Welcome to **Code_Canvas**, your gateway to my creative cosmos of code and learn
   - [Pomodoro-Timer-App-Rust](https://github.com/akash2061/Pomodoro-Timer-App-Rust) &nbsp; ![GitHub all releases](https://img.shields.io/github/downloads/akash2061/Pomodoro-Timer-App-Rust/total?color=azure&style=plastic)
 
 - **Open Source Projects [by [@akash2061](github.com/akash2061)]**:
-  - [CosmoSecure (Organization)](https://github.com/CosmoSecure)
+  - [CosmoSecure [ Organization ]](https://github.com/CosmoSecure)
     - [.github](https://github.com/CosmoSecure/.github)
-    - [CosmoSecure (Rust-Tauri Application)](https://github.com/CosmoSecure/CosmoSecure)
+    - [CosmoSecure [ Rust-Tauri Application ]](https://github.com/CosmoSecure/CosmoSecure)
     - [Website](https://github.com/CosmoSecure/Web) &nbsp; [![Vercel Deploy](https://deploy-badge.vercel.app/vercel/cosmosecure)](https://cosmosecure.vercel.app/)
 
 - **MERN-Stack**:
@@ -39,7 +39,7 @@ Welcome to **Code_Canvas**, your gateway to my creative cosmos of code and learn
   - [Celebal-DevOps-Project](https://github.com/akash2061/Celebal-DevOps-Project) &nbsp; [![celebal-deployment-pipeline](https://github.com/akash2061/Celebal-DevOps-Project/actions/workflows/celebal-deployment-pipeline.yml/badge.svg)](https://github.com/akash2061/Celebal-DevOps-Project/actions/workflows/celebal-deployment-pipeline.yml) [![Docker Image CI](https://github.com/akash2061/Celebal-DevOps-Project/actions/workflows/docker-image-CI.yml/badge.svg)](https://github.com/akash2061/Celebal-DevOps-Project/actions/workflows/docker-image-CI.yml) [![Push Docker-Hub image to ACR](https://github.com/akash2061/Celebal-DevOps-Project/actions/workflows/azure-container-reg-CI.yml/badge.svg)](https://github.com/akash2061/Celebal-DevOps-Project/actions/workflows/azure-container-reg-CI.yml)
   - [K8s-Automation-Project](https://github.com/akash2061/K8s-Project) &nbsp; [![CI/CD Pipeline](https://github.com/akash2061/K8s-Project/actions/workflows/CI_CD_Pipeline.yml/badge.svg)](https://github.com/akash2061/K8s-Project/actions/workflows/CI_CD_Pipeline.yml)
   - [Ansible-Dynamic-Inv](https://github.com/akash2061/Ansible-Dynamic-Inv)
-  - [DevOps-Project (Academic - Archived/NoLongerMaintained)](https://github.com/akash2061/DevOps-Project)
+  - [DevOps-Project [ Academic - Archived/NoLongerMaintained ]](https://github.com/akash2061/DevOps-Project)
 
 - **C++**:
   - [CodeCrafters-http-Server](https://github.com/akash2061/codecrafters-http-server-cpp)
